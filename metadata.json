@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Bajrang Agri Implements",
+  "description": "Modern \u0026 futuristic agricultural machinery by Bajrang Agri Implements - VijayBhai Solanki",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
